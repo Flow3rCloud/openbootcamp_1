@@ -1,0 +1,7 @@
+.vscode
+bin
+lib
+lib64
+usr/lib
+usr/lib64
+
